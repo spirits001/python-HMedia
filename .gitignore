@@ -1,0 +1,10 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+venv
+*.py[cod]
+.idea
+.DS_Store
+build
+dist
+hadmin.egg-info
